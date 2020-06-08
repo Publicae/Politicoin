@@ -1,0 +1,15 @@
+{
+  "name": "publicae_ether_wallet_api",
+  "version": "1.0.0",
+  "description": "publicae smart contract API",
+  "main": "index.js",
+  "author": "zois avgerinos",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^4.0.47",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "13.x"
+  }
+}
